@@ -23,4 +23,4 @@ class {{CLASS_NAME}} extends LitElement {
   }
 }
 
-window.customElements.define("{{TAG_NAME}}", MyElement);
+window.customElements.define("{{TAG_NAME}}", {{CLASS_NAME}});

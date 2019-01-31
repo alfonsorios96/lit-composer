@@ -1,6 +1,6 @@
 {
   "name": "lit-element-composer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./lib/index.js",
   "license": "MIT",
   "author": "Alfonso Ríos <malforime@gmail.com>",
