@@ -6,7 +6,7 @@ const core = require('../lib');
 const program = require('commander');
 
 program
-  .version('1.0.2', '-v, --version')
+  .version('1.0.3', '-v, --version')
   .option('-t, --tag [value]', 'Tag name for lit-element')
   .parse(process.argv);
 

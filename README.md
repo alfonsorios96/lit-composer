@@ -9,7 +9,7 @@
 * **Create a component** - Write components with excellents practices
 
 # Commands
-- `lit-composer --file [component-name]` - Create a component boilerplate for LitElement
+- `lit-composer --tag [component-name]` - Create a component boilerplate for LitElement
 
 # Practices based on
 
